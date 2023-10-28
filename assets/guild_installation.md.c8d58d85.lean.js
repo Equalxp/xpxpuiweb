@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,e as o}from"./app.78541638.js";const x=JSON.parse('{"title":"XpxpUI","description":"","frontmatter":{},"headers":[],"relativePath":"guild/installation.md"}'),c={name:"guild/installation.md"},d=o("",5),i=[d];function n(r,p,s,_,l,h){return t(),a("div",null,i)}const f=e(c,[["render",n]]);export{x as __pageData,f as default};
